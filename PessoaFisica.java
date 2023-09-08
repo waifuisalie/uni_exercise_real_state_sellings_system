@@ -1,4 +1,4 @@
-package ImobiApartPessoa.Real_State_Sellings_System_LOL;
+package ImobiApartPessoa;
 
 public class PessoaFisica {
     private String nome;

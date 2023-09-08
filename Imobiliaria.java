@@ -1,4 +1,4 @@
-package ImobiApartPessoa.Real_State_Sellings_System_LOL;
+package ImobiApartPessoa;
 
 import java.util.ArrayList;
 import java.util.Scanner;
