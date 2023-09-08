@@ -2,12 +2,12 @@ package ImobiApartPessoa;
 
 public class PessoaFisica {
     private String nome;
-    private int telefone;
+    private String telefone;
     
     public void setNome(String nome) {
         this.nome = nome;
     }
-    public void setTel(int telefone) {
+    public void setTel(String telefone) {
         this.telefone = telefone;
     }
 

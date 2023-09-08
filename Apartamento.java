@@ -47,7 +47,7 @@ public class Apartamento {
         this.preco = preco;
     }
 
-    public void set_proprietario(String nome, int telefone) {
+    public void set_proprietario(String nome, String telefone) {
         proprietario.setNome(nome);
         proprietario.setTel(telefone);
     }
